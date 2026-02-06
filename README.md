@@ -36,4 +36,4 @@ This project involves a comprehensive end-to-end SQL analysis of an **Online Ret
 
 ---
   
-**Connect with me:** [https://www.linkedin.com/in/hemanth-reddy-sangam-09ab78259/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLLBqQWrdRhaarimP9qTUgQ%3D%3D]
+**Connect with me:** [http://linkedin.com/in/hemanth-reddy-sangam-09ab78259]
